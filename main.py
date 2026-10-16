@@ -5,6 +5,8 @@ from nicegui import ui
 from scam_data import scam_alerts
 
 from translations import translations
+
+import streamlit as st 
 # --------------------------------------------------
 # Page settings
 # --------------------------------------------------
